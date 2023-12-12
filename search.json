@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ryan’s Website",
+    "section": "",
+    "text": "Home Page.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Ryan",
+    "section": "",
+    "text": "National Taipei University of Technology | Taipei, Taiwan Master of Electronic Engineering | Jul 2021 - Aug 2023\nNational Taipei University of Technology | Taipei, Taiwan Bachelor of Electronic Engineering | Sept 2017 - Jun 2021"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Ryan",
+    "section": "",
+    "text": "National Taipei University of Technology | Taipei, Taiwan Master of Electronic Engineering | Jul 2021 - Aug 2023\nNational Taipei University of Technology | Taipei, Taiwan Bachelor of Electronic Engineering | Sept 2017 - Jun 2021"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Ryan",
+    "section": "Experience",
+    "text": "Experience\nXunWei Technologies Co., Ltd. | Taipei, Taiwan Algorithm Validation Intern | May 2021 - Jun 2021\nDynasafe Technologies, Inc. | Taipei, Taiwan Network Security Intern | Jul 2020 - Jan 2021"
+  }
+]
